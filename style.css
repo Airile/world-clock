@@ -31,6 +31,20 @@ h2 {
   font-size: 28px;
 }
 
+.back {
+  text-decoration: none;
+  background-color: #955d98;
+  padding: 6px;
+  border-radius: 6px;
+  color: #f7def5;
+}
+
+a {
+  color: #955d98;
+  font-weight: 600;
+  text-decoration: none;
+}
+
 .container {
   max-width: 600px;
   margin: 60px auto;
